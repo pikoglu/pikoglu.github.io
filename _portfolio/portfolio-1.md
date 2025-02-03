@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Extending text-driven 3D human motion generation with Diffusion Models using LLM paraphrasing"
+excerpt: "<img src='/images/portfolio/motiongeneration.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+* __With__: Félix Fourreau, supervised by [Leore Bensabath](https://imagine-lab.enpc.fr/staff-members/leore-bensabath/s)
+* __Ressources__: [Slides](/files/portfolio/recvis_fp_slides.pdf); [Report](/files/portfolio/recvis_fp_report.pdf); [Code](https://github.com/MathisWauquiezz/RecVisFP)
+* __When__: 2025
+* __Associated to__: [MVA](https://www.master-mva.com/)
+
+The project involved creating a text-driven 3D human motion generation model using diffusion models. We studied extensively the generalization capabilities of the model across different datasets, that have different textual description styles. We show that by paraphrasing the text descriptions, we can improve the generalization capabilities of the model. We also explore the impact of different augmentations on the model's performance. Finally, inspired by the success of diffusion models in image generation, we explore the use of ConvUnets with attention mechanisms as the backbone of the model.

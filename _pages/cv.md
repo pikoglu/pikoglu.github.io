@@ -11,54 +11,51 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S.**: [ENS Paris-Saclay](https://www.master-mva.com), 2024-2025
+  * __Major__: Mathematics, Vision, and Learning (MVA)
+* **M.S.** (french eng. diploma): [ENPC](https://ecoledesponts.fr/en) - *Paris*, 2022-2026
+  * __Major__: Applied Maths & Machine Learning
+* **Prépa** (undergraduate): Lycée Gustave Eiffel Armentières, 2020-2022
+  * __Major__: Maths, Physics and Technology
+  
+* **Certification**: [GANs Specialization by DeepLearning.AI](https://www.coursera.org/account/accomplishments/specialization/STNCSAF6BNCR), 2024
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June-Sept. 2024: Research Intern in Machine Learning
+  * GRASP Global - Space services, Lille
+  * Duties includes: Developing a machine learning model for clustering large amount of satellite images.
+  * Supervisor: Dr. Konstantin Kuznetsov, Research Scientist
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June-Jul. 2023: Technical Intern
+  * Stellantis, Valenciennes
+  * Duties included: Assisting in manufacturing operations and developing software tools for maintenance teams at Stellantis.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2021: Summer Assistant
+  * Société Générale
+  * Duties included: Administrative tasks, archiving, prospecting, advising, assistance, account operations
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Generative Models
+  * Diffusion Models
+  * GANs
+  * VAEs
+  * etc
+* Computer Vision
+  * Classical methods (SIFT, SURF, graph cuts, etc.).
+  * Deep learning methods (CNNs, Transformers, etc.).
+* 3D geometry
+  * 3D reconstruction.
+  * Geometry processing.
+  * Geometric deep learning.
+* Image Denoising:
+  * Classical methods (BM3D, EPLL, NLM, orthogonal transforms)
+  * Deep learning methods (DnCNN, N2N).
+  * Plug-and-play methods.
+* Optimization: Convex optimization, non-convex optimization, deep learning optimization.
+* General machine learning and deep learning methods.
+* Programming languages: Python, C++.
+* Libraries: PyTorch, Pytorch-Lightning, Hydra, OpenCV, scientific libraries.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
