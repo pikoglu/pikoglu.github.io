@@ -5,7 +5,7 @@ collection: portfolio
 category: Computer Vision
 ---
 
-* __With__: Two mates from ENPC. Supervised by Prof. [Vincent Lepetit](https://vincentlepetit.github.io/)
+* __With__: [Dhia Garbaya](https://github.com/dhia680), [Faissal Izermine](https://github.com/IZ-f-AI-ss3), two mates from the ENPC. Supervised by Prof. [Vincent Lepetit](https://vincentlepetit.github.io/)
 * __Ressources__: [Slides](https://dhia680.github.io/files/TRIVA_NERFs.pdf); [Code](https://github.com/dhia680/Vision-Neural_Radiance_Fields)
 * __When__: 2024
 * __Associated to__: [ENPC](https://ecoledesponts.fr/en)

@@ -12,8 +12,6 @@ main:
   - title: "Background"
     url: /cv/
   
-  - title: "About"
+  - title: "About me"
     url: /about/
-    
-  - title: "Guide"
-    url: /markdown/
+  

@@ -5,7 +5,7 @@ collection: portfolio
 category: Software Development
 ---
 
-* __With__: Four mates from the ENPC.
+* __With__: Four mates from the ENPC, [Bilal Ben Moussa](https://github.com/Bilal59170), [Bronislaw Abadie](https://github.com/Blackthunder66), [Alex Crozat](https://github.com/PontendoVine) and [Enzo Azzoug](https://github.com/azzouginho).
 * __Ressources__: [Code](https://github.com/Bilal59170/TDLOG_Space_Wars); [Report](/files/portfolio/tdlog_report.pdf)
 * __When__: 2024
 * __Associated to__: [ENPC](https://ecoledesponts.fr/en)

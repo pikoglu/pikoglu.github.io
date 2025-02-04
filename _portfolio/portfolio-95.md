@@ -6,7 +6,7 @@ category: Personal projects - High School
 ---
 
 * __With__: Alone.
-* __Ressources__: [Code](https://github.com/mathisw59/SpaceOrbit)
+* __Ressources__: [Code](https://github.com/mathisw59/mazegame)
 * __Associated to__: High School
 
 
