@@ -2,6 +2,7 @@
 title: "Neural Radiance Fields (NERFs) for scene video synthesis"
 excerpt: "<img src='/images/portfolio/nerf.png'>"
 collection: portfolio
+category: Computer Vision
 ---
 
 * __With__: Two mates from ENPC. Supervised by Prof. [Vincent Lepetit](https://vincentlepetit.github.io/)

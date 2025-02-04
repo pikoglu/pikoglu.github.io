@@ -2,6 +2,7 @@
 title: "Extending text-driven 3D human motion generation with Diffusion Models using LLM paraphrasing"
 excerpt: "<img src='/images/portfolio/motiongeneration.png'>"
 collection: portfolio
+category: Research Projects
 ---
 
 * __With__: Félix Fourreau, supervised by [Leore Bensabath](https://imagine-lab.enpc.fr/staff-members/leore-bensabath/s)

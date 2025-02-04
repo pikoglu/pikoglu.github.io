@@ -2,6 +2,7 @@
 title: "Exploring CLIP's zero-shot and fine-tuning capabilities on several datasets"
 excerpt: "<img src='/images/portfolio/clip.png'>"
 collection: portfolio
+category: Deep Learning
 ---
 
 * __With__: Alone

@@ -2,6 +2,7 @@
 title: "Conway's Game of Life"
 excerpt: "<img src='/images/portfolio/gameoflife/Animation.gif'>"
 collection: portfolio
+category: Personal projects - High School
 ---
 
 ![gif](/images/portfolio/gameoflife/Animation.gif)

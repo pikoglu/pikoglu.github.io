@@ -2,6 +2,7 @@
 title: "Flappy Bird - Whistle Controlled"
 excerpt: "<img src='/images/portfolio/flappy_siffle.gif'>"
 collection: portfolio
+category: Personal projects - High School
 ---
 
 * __With__: Alone.

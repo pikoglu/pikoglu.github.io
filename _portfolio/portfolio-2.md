@@ -1,7 +1,8 @@
 ---
-title: "Few-Shot Learning: SketchNet Classification"
+title: "Few-Shot Learning: ImageNet-Sketch Classification"
 excerpt: "<img src='/images/portfolio/sketchnet.jpeg'>"
 collection: portfolio
+category: Deep Learning
 ---
 
 * __With__: Alone
@@ -9,7 +10,7 @@ collection: portfolio
 * __When__: 2024
 * __Associated to__: [MVA](https://www.master-mva.com/)
 
-SkecthNet is a dataset of 500 classes, with only 5 samples per class, augmented into 4 different views. The goal of the challenge was to classify the sketches into the 500 classes.
+ImageNet-Sketch is a dataset of 500 classes, with only 5 samples per class, augmented into 4 different views. The goal of the challenge was to classify the sketches into the 500 classes.
 
 I explored many approaches to this problem, including:
 - Using a pre-trained models like ResNet50, ViT, Swin Transformer, etc. and fine-tuning them on the dataset.

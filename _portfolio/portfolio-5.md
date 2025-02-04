@@ -2,6 +2,7 @@
 title: "Analyzing Gaussian Frosting: A mesh representation for 3D Gaussian Splatting"
 excerpt: "<video width='100%' autoplay loop muted><source src='https://mathisw59assets.pages.dev/gda_dance.mp4' type='video/mp4'></video>"
 collection: portfolio
+category: Computer Vision
 ---
 
 * __With__: Félix Fourreau

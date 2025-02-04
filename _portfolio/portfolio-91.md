@@ -2,6 +2,7 @@
 title: "Dynamic Programming - Optimal actions under uncertainty"
 excerpt: "<img src='/images/portfolio/optim.png'>"
 collection: portfolio
+category: Optimization
 ---
 
 * __With__: Célestin Hans, from the ENPC.

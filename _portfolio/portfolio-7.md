@@ -2,6 +2,7 @@
 title: "Space Wars - PIED.io"
 excerpt: "<img src='/images/portfolio/pied.io.png'>"
 collection: portfolio
+category: Software Development
 ---
 
 * __With__: Four mates from the ENPC.

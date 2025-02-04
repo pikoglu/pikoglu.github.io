@@ -2,6 +2,7 @@
 title: "Maze Game"
 excerpt: "<img src='/images/portfolio/maze.png'>"
 collection: portfolio
+category: Personal projects - High School
 ---
 
 * __With__: Alone.

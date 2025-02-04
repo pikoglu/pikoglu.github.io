@@ -2,6 +2,7 @@
 title: "Space Orbit - Multiplayer game"
 excerpt: "<img src='/images/portfolio/space_orbit.gif'>"
 collection: portfolio
+category: Software Development
 ---
 
 * __With__: Alone.

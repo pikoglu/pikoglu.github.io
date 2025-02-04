@@ -2,6 +2,7 @@
 title: "Eleven Strategy Hackathon -  Forecasting waiting times in a theme park to improve visitor experience"
 excerpt: "<img src='/images/portfolio/eleven.png'>"
 collection: portfolio
+category: Deep Learning
 ---
 
 * __With__: Three mates from the ENPC.

@@ -2,6 +2,7 @@
 title: "Kiro Hackathon - Operational research applied to factory operations management"
 excerpt: "<img src='/images/portfolio/kiro.png'>"
 collection: portfolio
+category: Optimization
 ---
 
 * __With__: Two mates from the ENPC.

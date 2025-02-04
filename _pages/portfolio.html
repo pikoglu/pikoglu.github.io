@@ -7,8 +7,89 @@ author_profile: true
 
 {% include base_path %}
 
+<!-- Define the desired category order -->
+{% assign category_order = "Research Projects, Computer Vision, Deep Learning, Optimization, Software Development, Personal projects - High School, Other" | split: ", " %}
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+<!-- Collect uncategorized items -->
+{% assign uncategorized_items = site.portfolio | where_exp: "item", "item.category == blank" %}
+
+<style>
+  .category-container {
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    background-color: #fafafa;
+  }
+
+  .category-header {
+    cursor: pointer;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 1.3em;
+    font-weight: bold;
+    transition: background-color 0.2s ease-in-out;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .category-header:hover {
+    background-color: #e0e0e0;
+  }
+
+  .category-header::after {
+    content: '▼';
+    transition: transform 0.3s ease;
+  }
+
+  .category-header.collapsed::after {
+    transform: rotate(90deg);
+  }
+
+  .portfolio-category {
+    padding: 10px;
+    transition: max-height 0.3s ease-out;
+  }
+
+  .portfolio-category.hidden {
+    display: none;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll(".category-header").forEach(header => {
+      // Initially collapse all categories
+      header.classList.add('collapsed');
+      header.nextElementSibling.classList.add('hidden');
+      
+      header.addEventListener("click", function () {
+        this.classList.toggle('collapsed');
+        let content = this.nextElementSibling;
+        content.classList.toggle('hidden');
+      });
+    });
+  });
+</script>
+
+{% for category in category_order %}
+  {% if category == "Other" %}
+    {% assign category_items = site.portfolio | where: "category", category | concat: uncategorized_items %}
+  {% else %}
+    {% assign category_items = site.portfolio | where: "category", category %}
+  {% endif %}
+
+  {% if category_items.size > 0 %}
+    <div class="category-container">
+      <div class="category-header">{{ category }}</div>
+      <div class="portfolio-category">
+        {% for post in category_items %}
+          {% include archive-single.html %}
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %}
 {% endfor %}
-

@@ -2,6 +2,7 @@
 title: "ENPC Hackaton -  Developping an AI assistant app for courses"
 excerpt: "<img src='/images/portfolio/hackaton.png'>"
 collection: portfolio
+category: Software Development
 ---
 
 * __With__: Two mates from the ENPC.

@@ -2,6 +2,7 @@
 title: "Paper Review: \"Developing a deep learning framework with two-stage feature selection for multivariate financial time series forecasting\""
 excerpt: "<img src='/images/portfolio/time_series.png'>"
 collection: portfolio
+category: Deep Learning
 ---
 
 * __With__: Félix Fourreau

@@ -2,6 +2,7 @@
 title: "Theodo Dojo - Spotify Blind Test"
 excerpt: "<img src='/images/portfolio/blind_test.png'>"
 collection: portfolio
+category: Software Development
 ---
 
 * __With__: Alone.
