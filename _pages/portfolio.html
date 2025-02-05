@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "My Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
@@ -46,7 +46,7 @@ author_profile: true
   }
 
   .category-header.collapsed::after {
-    transform: rotate(90deg);
+    transform: rotate(-90deg);
   }
 
   .portfolio-category {
@@ -57,6 +57,20 @@ author_profile: true
   .portfolio-category.hidden {
     display: none;
   }
+
+  .portfolio-item {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px 0;
+  background-color: white;
+  transition: box-shadow 0.2s ease-in-out;
+}
+
+.portfolio-item:hover {
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.15);
+}
+
 </style>
 
 <script>
@@ -87,7 +101,10 @@ author_profile: true
       <div class="category-header">{{ category }}</div>
       <div class="portfolio-category">
         {% for post in category_items %}
-          {% include archive-single.html %}
+          <div class="portfolio-item">
+            {% include archive-single.html %}
+          </div>
+        
         {% endfor %}
       </div>
     </div>

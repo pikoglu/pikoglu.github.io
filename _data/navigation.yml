@@ -6,12 +6,14 @@
 
 main:
     
-  - title: "Works"
+  - title: "My works"
     url: /portfolio/
             
-  - title: "Background"
+  - title: "Resume"
     url: /cv/
   
-  - title: "About me"
+  - title: "Coursework"
     url: /about/
-  
+
+  - title: "Home"
+    url: /home/
