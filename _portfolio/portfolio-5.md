@@ -2,11 +2,11 @@
 title: "Analyzing Gaussian Frosting: A mesh representation for 3D Gaussian Splatting"
 excerpt: "<video width='100%' autoplay loop muted><source src='https://mathisw59assets.pages.dev/gda_dance.mp4' type='video/mp4'></video>"
 collection: portfolio
-category: Computer Vision
+category: Research Projects
 ---
 
 * __With__: Félix Fourreau
-* __Ressources__: [Report](/files/portfolio/gda_report.pdf); [Slides](/files/portfolio/gda_slides.odp); [Code](https://www.kaggle.com/code/mathiswauquiez/time-series-financial-forecasting)
+* __Ressources__: [Report](/files/portfolio/gda_report.pdf); [Slides](/files/portfolio/gda_slides.odp)
 * __When__: 2025
 * __Associated to__: [MVA](https://www.master-mva.com/)
 
@@ -15,6 +15,8 @@ Project Description
 The project was based on the [Gaussian Frosting](https://anttwo.github.io/frosting/) paper, by [Antoine Guédon](https://anttwo.github.io/) and [Vincent Lepetit](https://vincentlepetit.github.io/). Their method extracts accurate and editable meshes from 3D Gaussian Splatting representations within minutes on a single GPU. The specifity of their meshes is that contain gaussian splats, which allows volumetric rendering and thus better preserves the quality of the 3D GS representation.
 
 After understanding the details of how 3DGS and [SuGaR](https://imagine.enpc.fr/~guedona/sugar/) works, we delved into the methodology of Gaussian Frosting, and used this method ourselves to animate a figurine and render fuzzy scenes.
+
+This project also includes a complete related work section, were take a deep dive into image based rendering (IBR) methods, their evolution, and the current landcape of the research domain.
 
 Abstract
 ========================
