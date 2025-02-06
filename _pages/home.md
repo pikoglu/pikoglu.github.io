@@ -3,7 +3,7 @@ permalink: /
 title: "Hello 👋"
 author_profile: true
 redirect_from: 
-  - /home
+  - /home/
 ---
 
 ## Who am I?
