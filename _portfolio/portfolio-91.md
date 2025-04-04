@@ -1,17 +1,14 @@
 ---
-title: "Dynamic Programming - Optimal actions under uncertainty"
-excerpt: "<img src='/images/portfolio/optim.png'>"
+title: "Kiro Hackathon - Operational research applied to factory operations management"
+excerpt: "<img src='/images/portfolio/kiro.png'>"
 collection: portfolio
 category: Optimization
 ---
 
-* __With__: Célestin Hans, from the ENPC.
-* __Ressources__: [Code](/files/portfolio/dynamic_prog_maintenance.ipynb); [Report](/files/portfolio/dynamic_prog_report.pdf)
-* __When__: 2023
+* __With__: Two mates from the ENPC.
+* __Ressources__: [KIRO Website](http://kiro.enpc.org/) ; [Fondation des Ponts' article](https://www.fondationdesponts.fr/soutien-au-concours-kiro-2022/#:~:text=La%206e%20édition%20du%20KIRO,PELICO%2C%20en%20collaboration%20avec%20M.)
+* __When__: 2022
 * __Associated to__: [ENPC](https://ecoledesponts.fr/en)
+* __Prizes__: 1st place 1A students
 
-
-The project tackled three problems:
-* Optimal maintenance strategy for a machine with uncertain failure times
-* Optimal shop stocks management under uncertain demand
-* Optimal strategy for a dice game
+<image src='/images/portfolio/kiro_full.webp' width="100%">
