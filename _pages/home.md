@@ -8,12 +8,20 @@ redirect_from:
 
 ## Who am I?
 
-I am a graduate student in the Mathematics, Vision, and Learning (MVA) Master's program at ENS Paris-Saclay, and I am also pursuing an engineering degree at École des Ponts ParisTech.
+I’m a graduate student currently pursuing a Master’s in Mathematics, Vision and Learning at the École Normale Supérieure Paris-Saclay, along with an engineering degree at École des Ponts ParisTech.
 
-My academic interests lie in the field of Generative Models and Computer Vision, which I am currently exploring through my research projects and my courses at the MVA.
+I’m also a research intern at Télécom Paris, in the IMAGES team (Image, Data, and Signal Department). I work under the supervision of [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/home?authuser=0), and [Andrés Almansa](https://helios2.mi.parisdescartes.fr/~aalmansa/HomePage/). This internship is expected to stop the 26th of September.
+My current research focuses on advancing the use of **flow matching techniques** for solving **image inpainting** problems.
 
-## How can you help me?
+Previously, I did a research internship at [GRASP Earth](https://www.grasp-earth.com), where I studied the use of VAEs applied to massive satellite data clustering, which was useful for several downstream tasks, including land change detection, or air quality monitoring.
 
-I am currently looking for a 4-month research internship abroad, starting in April 2025, in the field of Generative Models or Computer Vision.
-For more details, feel free to check my [CV](/cv), my [portfolio](/portfolio) or [contact me](mailto:mathis.wauquiez@gmail.com).
+My academic interests lie in **Generative Models** and **Computer Vision**, which I’ve explored through research projects and coursework in the MVA program and at ENPC.
+
+## Open to Research Opportunities
+
+I’m currently looking for a **6-month internship**, starting **October 2025**, in **Generative Models**.
+
+This will be the **final internship of my studies**, and it can potentially be continued as a **PhD** or a **job**.
+
+You can find more information in my [CV](/cv), explore my [portfolio](/portfolio), or simply [get in touch](mailto:mathis.wauquiez@gmail.com).
 

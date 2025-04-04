@@ -22,3 +22,18 @@ layout: default
     {{ content }}
   </div>
 </div>
+
+<script type="text/javascript" async
+src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+<script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<script>
+  console.log("MathJax loaded");
+  document.addEventListener("DOMContentLoaded", function () {
+    MathJax.typesetPromise().then(() => {
+      console.log("MathJax typeset complete");
+    }).catch((err) => console.log('MathJax typeset failed: ' + err.message));
+  });
+</script>
