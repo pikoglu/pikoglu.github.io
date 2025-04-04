@@ -48,9 +48,11 @@ But also ...
 * __Sustainable Development__
 * __Law__
 
-## How you can help me
+## Open to Research Opportunities
 
-I am currently looking for a 4-month research internship abroad, starting in April 2025, in the field of Generative Models or Computer Vision.
+I’m currently looking for a **6-month internship**, starting **October 2025**, in **Generative Models**.
 
-For more details, feel free to check my [CV](/cv), my [portfolio](/portfolio) or [contact me](mailto:mathis.wauquiez@gmail.com).
+This will be the **final internship of my studies**, and it can potentially be continued as a **PhD** or a **job**.
+
+You can find more information in my [CV](/cv), explore my [portfolio](/portfolio), or simply [get in touch](mailto:mathis.wauquiez@gmail.com).
 
