@@ -26,9 +26,15 @@ Education
 
 Work experience
 ======
+* May-Sept. 2025: Reasearch Intern
+  * [IMAGES, Télécom Paris](https://www.telecom-paris.fr/en/research/labs/information-processing-ltci/teams/image-modeling-analysis-geometry-synthesis), Palaiseau
+  * <u>Goal</u>: Advance the use of **flow matching** methods for image inpainting problems.
+  * <u>Supervisors</u>: [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/) (IMAGES @ Télécom Paris), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/home?authuser=0) (ISIR Lab @ Sorbonne Université), [Andrés Almansa](https://helios2.mi.parisdescartes.fr/~aalmansa/HomePage/) (MAP5 @ Université Paris-Descartes)
+  * <u>ENPC advisor</u>: [Vicent Lepetit](https://vincentlepetit.github.io)
+
 * June-Sept. 2024: Research Intern in Machine Learning
   * [GRASP Earth](https://www.grasp-earth.com), Lille
-  * <u>Duties includes</u>: Developing a machine learning model for clustering large amount of satellite images.
+  * <u>Goal</u>: Developing a machine learning model for clustering large amount of satellite images.
   * <u>Supervisor</u>: Dr. Konstantin Kuznetsov, Research Scientist
   * <u>ENPC advisor</u>: [Pf. Mathieu Aubry](https://mathieuaubry.github.io)
 
@@ -42,24 +48,12 @@ Work experience
   
 Skills
 ======
-* Generative Models
-  * Diffusion Models
-  * GANs
-  * VAEs
-  * etc
-* Computer Vision
-  * Classical methods (SIFT, SURF, graph cuts, etc.).
-  * Deep learning methods (CNNs, Transformers, etc.).
-* 3D geometry
-  * 3D reconstruction.
-  * Geometry processing.
-  * Geometric deep learning.
-* Image Denoising:
-  * Classical methods (BM3D, EPLL, NLM, orthogonal transforms)
-  * Deep learning methods (DnCNN, N2N).
-  * Plug-and-play methods.
-* Optimization: Convex optimization, non-convex optimization, deep learning optimization.
-* General machine learning and deep learning methods.
+* **Generative Models**: I am highly familiar with diffusion models, including score diffusion, DDPM, DDIM, latent diffusion, and flow matching. I also know my GAN basics and litterature, being highly familiar with Wasserstein GANs and their roots in Optimal Transport, and having a general culture of GAN models, through my courses at the MVA, and the GAN specialization delivered by Deeplearning.AI. I also had a research internship focused on applying Variational Autoencoders to massive satellite data.
+* **Computer Vision**: I began learning computer vision by myself, aside high school, through simple projects found on [Pyimagesearch](https://pyimagesearch.com) or [LearnOpenCV](https://learnopencv.com/category/opencv-4/), such as face recognition, image classification or facial landkmarks detection. This passion led me to work on early fire detection during my prep school, which was my final project (TIPE) during these studies. During this project, I learned classical computer vision principles for detection in images and videos (hand-made features etc), as well as deep learning concepts (object detectors, U-Net for segmentation, and annotating hundreds of images manually). I continued enjoying vision through my courses at the ENPC and the MVA, where I delved more into the scientific litterature, with more rigorous approaches.
+* **Inverse problems**: I had a specific course about image denoising, which was awesome, where I learned how BM3D, EPLL, NLM and orthogonal transforms works, as well as deep learning approaches such as DnCNN and N2N. I also learned methods to solve the general formulation of inverse problems in diverse courses, and learned how Plug & Play (PnP) methods works.
+* **3D geometry**: Reconstructing 3D scenes, processing geometries, geometric deep learning, and a bit of point clouds
+* **Optimization**: Convex optimization, non-convex optimization, deep learning optimization.
+* General machine learning and deep learning
 * Programming languages: Python, C++.
 * Libraries: PyTorch, Pytorch-Lightning, Hydra, OpenCV, scientific libraries.
 
