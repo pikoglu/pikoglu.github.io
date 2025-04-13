@@ -14,11 +14,11 @@ redirect_from:
 I am a graduate student in the Mathematics, Vision, and Learning (MVA) Master's program at ENS Paris-Saclay, and I am also pursuing an engineering degree at École des Ponts ParisTech.
 
 My coursework at the MVA master's is focused on the following topics:
+* __Generative Models__: Three courses about generative models. I highly recommend the "[Génération de données en IA par transport et débruitage](https://www.youtube.com/watch?v=5zFhdpWjCxI&t=677s)" by Stéphane Mallat at the Collège de France (or the [MIT's course](https://diffusion.csail.mit.edu) if you prefeer english).
 * __Deep Learning__ and its best practices
 * __Computer Vision__ courses, delving into the latest research papers and implementing state-of-the-art models and common problems in computer vision.
 * __3D__: 3D computer vision, 3d geometry and geometric deep learning
 * __Inverse problems in computer vision__: One specific about image denoising, another about numerical imagery and inverse problems. One course focused on restauration and synthesis of images
-* __Generative Models__: Three courses about generative models, plus applications to Plug&Play methods
 * __Graph Machine Learning__ course, during which I learned mathematical tools for graphs and graph neural networks
 * __Representation Learning__ is one of the most interesting courses I had, although not directly connected to my research interests
 * __Bayesian Machine Learning__ is also an interesting course that gave me a global view of the current limitations of Bayesian approaches and the research landscape, as well as giving me a high-level overview of the main approaches to making decisions under uncertainty

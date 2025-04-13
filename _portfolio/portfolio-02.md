@@ -6,7 +6,7 @@ category: Research Projects
 ---
 
 * __With__: Alone
-* __Ressources__: [slides](/files/portfolio/gen_models_slides.pdf) / [Code](https://github.com/mathis-wauquiez/StyleGANInpainting)
+* __Ressources__: [Slides](/files/portfolio/delires_slides.pdf) / [Code](https://github.com/mathis-wauquiez/StyleGANInpainting)
 * __When__: 2025
 * __Associated to__: [MVA](https://www.master-mva.com/)
 * __Category__: Research, Generative Models, GANs
