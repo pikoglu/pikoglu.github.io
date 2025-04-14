@@ -14,7 +14,7 @@ redirect_from:
 I am a graduate student in the Mathematics, Vision, and Learning (MVA) Master's program at ENS Paris-Saclay, and I am also pursuing an engineering degree at École des Ponts ParisTech.
 
 My coursework at the MVA master's is focused on the following topics:
-* __Generative Models__: Three courses about generative models. I highly recommend the "[Génération de données en IA par transport et débruitage](https://www.youtube.com/watch?v=5zFhdpWjCxI&t=677s)" by Stéphane Mallat at the Collège de France (or the [MIT's course](https://diffusion.csail.mit.edu) if you prefeer english).
+* __Generative Models__: Three courses at MVA on generative models, plus one online from MIT (not enrolled). I highly recommend the "[Génération de données en IA par transport et débruitage](https://www.youtube.com/watch?v=5zFhdpWjCxI&t=677s)" by Stéphane Mallat at the Collège de France (or the [MIT's course](https://diffusion.csail.mit.edu) if you prefeer english).
 * __Deep Learning__ and its best practices
 * __Computer Vision__ courses, delving into the latest research papers and implementing state-of-the-art models and common problems in computer vision.
 * __3D__: 3D computer vision, 3d geometry and geometric deep learning
