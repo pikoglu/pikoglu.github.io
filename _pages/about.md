@@ -14,16 +14,41 @@ redirect_from:
 I am a graduate student in the Mathematics, Vision, and Learning (MVA) Master's program at ENS Paris-Saclay, and I am also pursuing an engineering degree at École des Ponts ParisTech.
 
 My coursework at the MVA master's is focused on the following topics:
-* __Generative Models__: Three courses at MVA on generative models, plus one online from MIT (not enrolled). I highly recommend the "[Génération de données en IA par transport et débruitage](https://www.youtube.com/watch?v=5zFhdpWjCxI&t=677s)" by Stéphane Mallat at the Collège de France (or the [MIT's course](https://diffusion.csail.mit.edu) if you prefeer english).
-* __Deep Learning__ and its best practices
-* __Computer Vision__ courses, delving into the latest research papers and implementing state-of-the-art models and common problems in computer vision.
-* __3D__: 3D computer vision, 3d geometry and geometric deep learning
-* __Inverse problems in computer vision__: One specific about image denoising, another about numerical imagery and inverse problems. One course focused on restauration and synthesis of images
-* __Graph Machine Learning__ course, during which I learned mathematical tools for graphs and graph neural networks
-* __Representation Learning__ is one of the most interesting courses I had, although not directly connected to my research interests
-* __Bayesian Machine Learning__ is also an interesting course that gave me a global view of the current limitations of Bayesian approaches and the research landscape, as well as giving me a high-level overview of the main approaches to making decisions under uncertainty
-* __Learning for time series__ equipped me with the tools needed to tackle time series forecasting, extract meaningful patterns, enhance the data and apply change-point and anomaly detection
 
+* __Machine Learning for Time Series__ :  
+Provides an overview of ML techniques to study time series, in different tasks such as pattern extraction and recognition, anomaly detection, prediction, interpolation etc. 
+
+
+* __Computational Statistics__ :  
+Covers advanced statistical computation techniques such as Monte Carlo methods, MCMC (Metropolis-Hastings, Gibbs sampling), expectation-maximization (EM) etc.
+
+* __Deep Learning in Practice__ :  
+
+Explores modern deep learning beyond theory, with hands-on training on model optimization, interpretability, and architectures. Addresses dataset biases, frugal learning, physics-informed models, and generative approaches like GANs, VAEs, and diffusion models.
+
+
+* __Deep Learning and Signal Processing for Industry__ :  
+Applies deep learning to industrial signal processing tasks such as radar emitter ID, speaker recognition, and predictive maintenance. Combines classical and learning-based methods, with a focus on operational context and physical modeling.
+
+
+* __Reinforcement Learning__ :  
+Covers both foundational and modern reinforcement learning, from MDPs and Bellman equations to deep RL and policy gradient methods. Emphasizes value approximation, policy optimization, and exploration strategies including bandits and AlphaZero.
+
+* __Generative Modeling through Transport and Denoising__ :  
+Explores state-of-the-art generative modeling techniques using optimal transport and score-based methods. Includes applications to image generation, denoising, and inverse problems.
+
+* __Graph Machine Learning__ :  
+Covers mathematical foundations and practical methods for learning on graph-structured data. Topics include spectral methods, message passing neural networks, and geometric deep learning.
+
+* __3D Computer Vision__ :  
+Focuses on 3D geometry, multi-view reconstruction, point clouds, and the limitations of current 3D vision systems. Emphasizes both theoretical background and practical algorithms.
+
+
+Additional coursework includes:  
+* __Generative Models for Images__  
+* __Object Recognition and Computer Vision__  
+* __Representation Learning for Visual and Medical Data__  
+* __Biostatistics__
 
 And here is my coursework at the ENPC:
 * __Spanish & English courses__
@@ -50,9 +75,12 @@ But also ...
 
 ## Open to Research Opportunities
 
-I’m currently looking for a **6-month internship**, starting **October 2025**, in **Generative Models**.
 
-This will be the **final internship of my studies**, and it can potentially be continued as a **PhD** or a **job**.
+I am currently completing my **final internship** as part of the MVA master's and engineering degree at École des Ponts ParisTech.
 
-You can find more information in my [CV](/cv), explore my [portfolio](/portfolio), or simply [get in touch](mailto:mathis.wauquiez@gmail.com).
+I’m now looking for either:
+- a **PhD** in machine learning, i am open to various topics.
 
+- a **full-time position** (R&D or research engineer), where I can apply my skills in deep learning, generative modeling, and computer vision.
+
+If you're interested in collaborating or hiring, you can check out my [CV](/cv), explore my [portfolio](/portfolio), or simply [get in touch](mailto:fourreaufelix@gmail.com).

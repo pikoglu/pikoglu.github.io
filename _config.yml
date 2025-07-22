@@ -9,13 +9,13 @@
 # Basic Site Settings
 math                     : true
 locale                   : "en-US"
-title                    : "Mathis Wauquiez"
+title                    : "Félix Fourreau"
 title_separator          : "-"
-name                     : &name "Mathis Wauquiez"
+name                     : &name "Félix Fourreau"
 description              : &description "Graduate student at the ENS Paris-Saclay and Ecole des Ponts Paristech"
-url                      : https://mathis-wauquiez.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://github.com/pikoglu # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mathis-wauquiez/mathis-wauquiez.github.io"
+repository               : "https://github.com/pikoglu/pikoglu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "mathis-wauquiez/mathis-wauquiez.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Mathis Wauquiez"
+  name             : "Félix Fourreau"
   pronouns         : # example: "she/her"  
   bio              : "Graduate student"
   location         : "Paris, France"
   employer         : "ENS Paris-Saclay & ENPC"
   uri              : # URL
-  email            : "mathis.wauquiez@gmail.com" 
+  email            : "FourreauFelix@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "mathis-wauquiez"
+  github           : "pikoglu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : mathis-wauquiez
+  linkedin         : fourreaufelix001
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
