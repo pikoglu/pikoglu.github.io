@@ -5,7 +5,7 @@ collection: portfolio
 category: Research Projects
 ---
 
-* __With__: Félix Fourreau
+* __With__: [Mathis Wauquiez](https://github.com/mathis-wauquiez)
 * __Ressources__: [Report](/files/portfolio/gda_report.pdf); [Slides](/files/portfolio/gda_slides.odp)
 * __When__: 2025
 * __Associated to__: [MVA](https://www.master-mva.com/)

@@ -9,15 +9,12 @@ redirect_from:
 ---
 
 
-## About Me
+## MVA Master's Focus
 
-I am a graduate student in the Mathematics, Vision, and Learning (MVA) Master's program at ENS Paris-Saclay, and I am also pursuing an engineering degree at École des Ponts ParisTech.
 
-My coursework at the MVA master's is focused on the following topics:
+My coursework at the MVA master's was focused on the following topics:
 
-* __Machine Learning for Time Series__ :  
-Provides an overview of ML techniques to study time series, in different tasks such as pattern extraction and recognition, anomaly detection, prediction, interpolation etc. 
-
+* __Machine Learning for Time Series__: Provides an overview of ML techniques to study time series, in different tasks such as pattern extraction and recognition, anomaly detection, prediction, interpolation etc., taught by [Laurent Oudre](https://www.laurentoudre.fr/).
 
 * __Computational Statistics__ :  
 Covers advanced statistical computation techniques such as Monte Carlo methods, MCMC (Metropolis-Hastings, Gibbs sampling), expectation-maximization (EM) etc.
@@ -30,9 +27,7 @@ Explores modern deep learning beyond theory, with hands-on training on model opt
 * __Deep Learning and Signal Processing for Industry__ :  
 Applies deep learning to industrial signal processing tasks such as radar emitter ID, speaker recognition, and predictive maintenance. Combines classical and learning-based methods, with a focus on operational context and physical modeling.
 
-
-* __Reinforcement Learning__ :  
-Covers both foundational and modern reinforcement learning, from MDPs and Bellman equations to deep RL and policy gradient methods. Emphasizes value approximation, policy optimization, and exploration strategies including bandits and AlphaZero.
+* __Reinforcement Learning__: Covers both foundational and modern reinforcement learning, from MDPs and Bellman equations to deep RL and policy gradient methods. Emphasizes value approximation, policy optimization, and exploration strategies including bandits and AlphaZero, taught by [Emmanuel Rachelson](https://erachelson.github.io/).
 
 * __Generative Modeling through Transport and Denoising__ :  
 Explores state-of-the-art generative modeling techniques using optimal transport and score-based methods. Includes applications to image generation, denoising, and inverse problems.
@@ -40,15 +35,15 @@ Explores state-of-the-art generative modeling techniques using optimal transport
 * __Graph Machine Learning__ :  
 Covers mathematical foundations and practical methods for learning on graph-structured data. Topics include spectral methods, message passing neural networks, and geometric deep learning.
 
-* __3D Computer Vision__ :  
-Focuses on 3D geometry, multi-view reconstruction, point clouds, and the limitations of current 3D vision systems. Emphasizes both theoretical background and practical algorithms.
-
+* __3D Computer Vision__: Focuses on 3D geometry, multi-view reconstruction, point clouds, and the limitations of current 3D vision systems. Emphasizes both theoretical background and practical algorithms, taught by [Pascal Monasse](https://ecoledesponts.fr/pascal-monasse).
 
 Additional coursework includes:  
 * __Generative Models for Images__  
 * __Object Recognition and Computer Vision__  
 * __Representation Learning for Visual and Medical Data__  
 * __Biostatistics__
+
+## ENPC Academic Focus
 
 And here is my coursework at the ENPC:
 * __Spanish & English courses__

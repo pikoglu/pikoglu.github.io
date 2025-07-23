@@ -1,18 +1,23 @@
 ---
-title: "Analyzing, modeling and predicting the surface settlements of the Grand Paris Express"
-excerpt: "<img src='/images/portfolio/tunnel.jpg'>"
+title: "DoodleJump in C++ using Imagine++"
+excerpt: "<img src='/images/portfolio/doodlejump.png'>"
 collection: portfolio
-category: Research Projects
+category: Game Projects
 ---
 
-* __With__: Four mates from the ENPC, under the supervision of [Tatiana Richa](https://ingenius.ecoledesponts.fr/auteurs/tatiana-richa/)
-* __Ressources__: **Read the report**: [Report](/files/portfolio/tunnel_report.pdf)
+* __With__: [Amaury Bacot](https://github.com/Momo9002/), supervised by [Pascal Monasse](https://ecoledesponts.fr/pascal-monasse)  
+* __Resources__: [Imagine++](https://imagine.enpc.fr/~monasse/Imagine++/) — developed by the [LIGM](https://siteigm.univ-mlv.fr/), [Code](https://github.com/Momo9002/doodle_jump)
 * __When__: 2023
-* __Associated to__: [ENPC](https://www.enpc.fr/en)
 
-<image src='/images/portfolio/tunnel2.png' width="100%" />
+This project involved recreating the classic *DoodleJump* game entirely from scratch in C++, using only the [Imagine++](https://imagine.enpc.fr/imagine/index.html) graphics library — a little-known, research-focused C++ library developed by the [LIGM](https://siteigm.univ-mlv.fr/)
 
+One of the main challenges was the steep learning curve of Imagine++, due to its niche usage. We had to dive deep into the library’s structure and functionalities to build a fully-featured game capable of running a smooth and responsive version of *DoodleJump*.
 
-The objective of this work was to analyze the surface settlements observed following tunnel excavation. First,the data is organized in a database structure and then processed. Then, a statistical study is done in order to better understand the data. Finally, simple machine learning algorithms such as Random Forests are used for the prediction of settlements. The obtained results are compared with those measured in the field in order to validate the quality of the prediction
+The game replicates all core mechanics of the original:  
+– random and breakable platforms  
+– vertical camera tracking  
+– monsters and collision handling  
+– gravity, jump physics, and power-ups  
 
-This project was done as part of the [ENPC](https://www.enpc.fr/en) 1st year program, in close collaboration with Dr. [Tatiana Richa](https://ingenius.ecoledesponts.fr/auteurs/tatiana-richa/), a specialist in geotechnical engineering and data science, that supervised us throughout the project.
+Thanks to the performance of C++, the final game runs efficiently and handles real-time gameplay with complex interactions.
+

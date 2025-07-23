@@ -5,7 +5,7 @@ collection: portfolio
 category: Research Projects
 ---
 
-* __With__: [Félix FOURREAU](github.com/pikoglu)
+* __With__: [Mathis Wauquiez](https://github.com/mathis-wauquiez)
 * __Ressources__: [Report](/files/portfolio/gen_models_report.pdf) / [slides](/files/portfolio/gen_models_slides.pdf) / [Code](https://github.com/mathis-wauquiez/MonotoneGradientNetworks)
 * __When__: 2025
 * __Associated to__: [MVA](https://www.master-mva.com/)
