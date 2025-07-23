@@ -1,6 +1,6 @@
 ---
 title: "KAMATE – Rugby Board Game Adaptation with AI Opponent"
-excerpt: "<img src='/images/portfolio/kamate.png'>"
+excerpt: "<img src='/images/portfolio/kamate.jpg'>"
 collection: portfolio
 category: Game Projects
 ---

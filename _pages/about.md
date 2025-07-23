@@ -20,7 +20,6 @@ My coursework at the MVA master's was focused on the following topics:
 Covers advanced statistical computation techniques such as Monte Carlo methods, MCMC (Metropolis-Hastings, Gibbs sampling), expectation-maximization (EM) etc.
 
 * __Deep Learning in Practice__ :  
-
 Explores modern deep learning beyond theory, with hands-on training on model optimization, interpretability, and architectures. Addresses dataset biases, frugal learning, physics-informed models, and generative approaches like GANs, VAEs, and diffusion models.
 
 

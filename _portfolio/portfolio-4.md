@@ -5,7 +5,7 @@ collection: portfolio
 category: Deep Learning
 ---
 
-* __With__: Félix Fourreau
+* __With__: [Mathis Wauquiez](https://github.com/mathis-wauquiez)
 * __Ressources__: [Report](/files/portfolio/ts_report.pdf); [Slides](/files/portfolio/ts_slides.pdf); [Code](https://www.kaggle.com/code/mathiswauquiez/time-series-financial-forecasting)
 * __When__: 2025
 * __Associated to__: [MVA](https://www.master-mva.com/)
