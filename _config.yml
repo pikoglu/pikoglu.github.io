@@ -13,7 +13,7 @@ title                    : "Félix Fourreau"
 title_separator          : "-"
 name                     : &name "Félix Fourreau"
 description              : &description "Graduate student at the ENS Paris-Saclay and Ecole des Ponts Paristech"
-url                      : https://github.com/pikoglu # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://pikoglu.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/pikoglu/pikoglu.github.io"
 
