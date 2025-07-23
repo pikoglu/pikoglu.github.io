@@ -7,7 +7,7 @@ category: Research Projects
 
 * __With__: With [Maryam El Yaagoubi](https://github.com/maryamelyaagoubi)  Supervised by [M. Marinica](https://scholar.google.com/citations?user=Yfj9RqUAAAAJ&hl=en), CEA Paris-Saclay  
 * __Resources__: [Report](/files/portfolio/MOPSI_FELIX_MARYAM.pdf)  
-* __When__: 2024  
+* __When__: 2024 
 * __Associated to__: [CEA Paris-Saclay](https://www.cea.fr/)
 
 This project explores the instability of molecular dynamics simulations when using neural network-based force fields. Starting with a simple MLP trained on the Müller-Brown potential, the study progresses to graph neural networks (GNNs), including architectures like GraphSAGE and PhysNet, known for their physical equivariance.
