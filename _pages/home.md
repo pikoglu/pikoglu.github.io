@@ -1,27 +1,27 @@
 ---
 permalink: /
-title: "Hello 👋"
+title: "Hello"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /home/
+last_modified_at: 2025-07-22
 ---
 
 ## Who am I?
 
-I’m a graduate student currently pursuing a Master’s in Mathematics, Vision and Learning at the École Normale Supérieure Paris-Saclay, along with an engineering degree at École des Ponts ParisTech.
+I'm **Felix Fourreau**. I completed the **MVA Master (Mathématiques, Vision, Apprentissage)** at **ENS Paris-Saclay** and the engineering program at **École des Ponts ParisTech** in **June 2025**.
 
-I’m also a research intern at Télécom Paris, in the IMAGES team (Image, Data, and Signal Department). I work under the supervision of [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/home?authuser=0), and [Andrés Almansa](https://helios2.mi.parisdescartes.fr/~aalmansa/HomePage/). This internship is expected to stop the 26th of September.
-My current research focuses on advancing the use of **flow matching techniques** for solving **image inpainting** problems.
+From **June to October 2025**, I am a **Research Intern at SnT, University of Luxembourg** (supervisor: [Maxime Cordy](https://scholar.google.com/citations?user=sRXHjkIAAAAJ&hl=fr)), working on **machine learning for optimal power-flow (OPF) prediction** in power grids, with a submission to NeurIPS 2025: [Constraint-Guided Prediction Refinement via Deterministic Diffusion Trajectories (CARDIFF)](https://arxiv.org/abs/2506.12911).
 
-Previously, I did a research internship at [GRASP Earth](https://www.grasp-earth.com), where I studied the use of VAEs applied to massive satellite data clustering, which was useful for several downstream tasks, including land change detection, or air quality monitoring.
+Previously:
+- **CERMICS (ENPC), Paris — Jun–Sep 2024**: Implemented an efficient **belief-propagation image inpainting** algorithm in **C++**, supervised by [Pascal Monasse](https://scholar.google.com/citations?user=dZRK3HsAAAAJ&hl=fr).
+- **CEA, Paris — Jan–Jun 2024**: Studied **graph neural network instability for Hamiltonian dynamics**, supervised by [Mihai-Cosmin Marinica](https://scholar.google.com/citations?user=Yfj9RqUAAAAJ&hl=en).
 
-My academic interests lie in **Generative Models** and **Computer Vision**, which I’ve explored through research projects and coursework in the MVA program and at ENPC.
+My interests: **generative modeling (diffusion / flow matching)**, **constraint-satisfying & physics-informed ML**, **computer vision**, and more broadly **quantitative modeling and optimization under uncertainty**.
 
-## Open to Research Opportunities
+## Open to Opportunities
 
-I’m currently looking for a **6-month internship**, starting **October 2025**, in **Generative Models**.
+I am seeking a **full-time position starting January 2026**.  
+I’m interested in roles where **rigorous mathematics, machine learning, and data-driven decision-making** meet real-world problems (research labs, tech, energy, quantitative modeling, etc.). A **PhD** remains an option if the project aligns with these themes.
 
-This will be the **final internship of my studies**, and it can potentially be continued as a **PhD** or a **job**.
-
-You can find more information in my [CV](/cv), explore my [portfolio](/portfolio), or simply [get in touch](mailto:mathis.wauquiez@gmail.com).
-
+More details: [CV](/cv) • [Portfolio](/portfolio) • Contact: [FourreauFelix@gmail.com](mailto:FourreauFelix@gmail.com)

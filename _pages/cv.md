@@ -9,51 +9,62 @@ redirect_from:
 
 {% include base_path %}
 
-
-You can download my PDF CV [here](/files/CV_Mathis_Wauquiez.pdf), or refer to the version below.
+You can download my PDF CV [here](/files/Felix_Fourreau_CV.pdf), or refer to the version below.
 
 Education
 ======
-* **M.S.**: [ENS Paris-Saclay](https://www.master-mva.com), 2024-2025
-  * <u>Major</u>: Mathematics, Vision, and Learning (MVA)
-* **M.S.** (french eng. diploma): [ENPC](https://ecoledesponts.fr/en) - *Paris*, 2022-2026
-  * <u>Major</u>: Applied Maths & Machine Learning
-* **Prépa** (undergraduate): Lycée Gustave Eiffel Armentières, 2020-2022
-  * <u>Major</u>: Maths, Physics and Technology
-  
-* **Certification**: [GANs Specialization by DeepLearning.AI](https://www.coursera.org/account/accomplishments/specialization/STNCSAF6BNCR), 2025
-
+* **M.Sc.**: [ENS Paris-Saclay](https://www.master-mva.com), 2024–2025  
+  * <u>Major</u>: Mathematics, Vision and Learning (MVA)
+* **Engineering Degree (Ingénieur)**: [École des Ponts ParisTech](https://ecoledesponts.fr/en), 2022–2025  
+  * <u>Major</u>: Mathematics & Computer Science (optimization, statistics, deep learning)
+* **Classes Préparatoires (MP\*)**: Lycée Pierre Corneille, Rouen, 2020–2022  
+  * <u>Focus</u>: Mathematics, Physics, Chemistry
 
 Work experience
 ======
-* May-Sept. 2025: Reasearch Intern
-  * [IMAGES, Télécom Paris](https://www.telecom-paris.fr/en/research/labs/information-processing-ltci/teams/image-modeling-analysis-geometry-synthesis), Palaiseau
-  * <u>Goal</u>: Develop **flow matching** algorithms for image inpainting.
-  * <u>Supervisors</u>: [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/) (IMAGES @ Télécom Paris), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/home?authuser=0) (ISIR Lab @ Sorbonne Université), [Andrés Almansa](https://helios2.mi.parisdescartes.fr/~aalmansa/HomePage/) (MAP5 @ Université Paris-Descartes)
-  * <u>ENPC advisor</u>: [Vincent Lepetit](https://vincentlepetit.github.io)
+* Jun–Oct 2025: Research Intern  
+  * [SnT, University of Luxembourg](https://www.uni.lu/snt/), Luxembourg  
+  * <u>Topic</u>: Machine learning for optimal power-flow (OPF) prediction, with constraint-aware post-hoc refinement  
+  * <u>Supervisor</u>: [Maxime Cordy](https://scholar.google.com/citations?user=sRXHjkIAAAAJ&hl=fr)  
+  * <u>Preprint</u>: [Constraint-Guided Prediction Refinement via Deterministic Diffusion Trajectories (CARDIFF)](https://arxiv.org/abs/2506.12911), submitted to NeurIPS 2025
 
-* June-Sept. 2024: Research Intern in Machine Learning
-  * [GRASP Earth](https://www.grasp-earth.com), Lille
-  * <u>Goal</u>: Developing a machine learning model for clustering large amount of satellite images.
-  * <u>Supervisor</u>: Dr. Konstantin Kuznetsov, Research Scientist
-  * <u>ENPC advisor</u>: [Pf. Mathieu Aubry](https://mathieuaubry.github.io)
+* Jun–Sep 2024: Research Intern  
+  * [CERMICS, École des Ponts ParisTech](https://cermics.enpc.fr), Paris  
+  * <u>Topic</u>: Efficient belief-propagation image inpainting in C++ (priority scheduling, dynamic pruning)  
+  * <u>Supervisor</u>: [Pascal Monasse](https://scholar.google.com/citations?user=dZRK3HsAAAAJ&hl=fr)
 
-* June-Jul. 2023: Technical Intern
-  * [Stellantis](https://www.stellantis.com/en), Valenciennes
-  * <u>Duties includes</u>: Assisting in manufacturing operations and developing software tools for maintenance teams at Stellantis.
+* Jan–Jun 2024: Research Assistant  
+  * [CEA](https://www.cea.fr), Paris  
+  * <u>Topic</u>: Graph neural network instability for Hamiltonian dynamics (molecular systems)  
+  * <u>Supervisor</u>: [Mihai-Cosmin Marinica](https://scholar.google.com/citations?user=Yfj9RqUAAAAJ&hl=en)
 
-* August 2021: Summer Assistant
-  * [Société Générale](https://www.societegenerale.com/en), Armentières
-  * <u>Duties includes</u>: Administrative tasks, archiving, prospecting, advising, assistance, account operations
-  
+Projects & Preprints
+======
+* **Constraint-Guided Prediction Refinement via Deterministic Diffusion Trajectories (CARDIFF)** — arXiv:2506.12911, 2025  
+  * Model-agnostic post-hoc refinement projecting coarse predictors onto nonlinear constraint manifolds via deterministic diffusion with gradient corrections.
+
+* **Belief-Propagation Inpainting (C++ Implementation)**, 2024  
+  * Priority scheduling and dynamic pruning for message passing; analysis of limitations on thin structures. Draft in preparation for IPOL.
+
+* **Machine-Learned Potentials with Hamiltonian Dynamics**, 2024  
+  * GNN learning of Hamiltonian dynamics; divergence analysis over long rollouts and hyperparameters (experiments on Jean Zay supercomputer).
+
 Skills
 ======
-* **Generative Models**: I am highly familiar with diffusion models, including score diffusion, DDPM, DDIM, latent diffusion, and flow matching. I am also familiar with GAN and their litterature, through my courses at the MVA, and the GAN specialization delivered by Deeplearning.AI. These skills were further developped during a research internship focused on applying Variational Autoencoders to satellite datasets.
-* **Computer Vision**: I began learning computer vision by myself, aside high school, through simple projects found on [Pyimagesearch](https://pyimagesearch.com) or [LearnOpenCV](https://learnopencv.com/category/opencv-4/), such as face recognition, image classification or facial landkmarks detection. This passion led me to work on early fire detection during my prep school, which was my final project (TIPE) during these studies. During this project, I learned classical computer vision principles for detection in images and videos (hand-made features etc), as well as deep learning concepts (object detectors, U-Net for segmentation, and annotating hundreds of images manually). I continued enjoying vision through my courses at the ENPC and the MVA, where I delved more into the scientific litterature, with more rigorous approaches, combined with hands-on projects.
-* **Inverse problems**: I had a specific course about image denoising, which was awesome, where I learned how BM3D, EPLL, NLM and orthogonal transforms works, as well as deep learning approaches such as DnCNN and N2N. I also learned methods to solve the general formulation of inverse problems in diverse courses, and learned how Plug & Play (PnP) methods works.
-* **3D geometry**: Reconstructing 3D scenes, processing geometries, geometric deep learning, and a bit of point clouds
-* **Optimization**: Convex optimization, non-convex optimization, deep learning optimization.
-* General machine learning and deep learning
-* Programming languages: Python, C++.
-* Libraries: PyTorch, Pytorch-Lightning, Hydra, OpenCV, scientific libraries, plotly and gradio.
+* **Programming**: Python, C++, SQL, VBA  
+* **Libraries/Frameworks**: PyTorch, NumPy, pandas, scikit-learn, XGBoost, Matplotlib  
+* **Tools & Platforms**: Git, Linux, Jupyter, VSCode, Conda  
+* **Languages**: French (native), English (fluent), Spanish (basic)
 
+Interests
+======
+* Generative modeling (diffusion / flow matching)  
+* Constraint-aware & physics-informed ML  
+* Computer vision  
+* Quantitative modeling and optimization of complex systems (power grids, markets, etc.)
+
+Availability
+======
+* Seeking a full-time position starting **January 2026** (research/engineering roles; a PhD remains an option if the topic fits).
+
+_Last updated: 22 July 2025_
